@@ -223,6 +223,10 @@ namespace GolfWorld1.Controllers
             CopyPropertiesH(tciHandicap, sc1);
             CopyPropertiesH(tciDistance, sc2);
 
+            // here I'm going to add or delete something for changes
+            //
+            // now I can finish my edit
+            
             sc0.HOut = tciPar.HOut;
             sc0.HIn = tciPar.HIn;
             sc0.HTotal = tciPar.HTotal;
